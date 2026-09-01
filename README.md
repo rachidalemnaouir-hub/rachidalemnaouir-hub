@@ -75,6 +75,7 @@ Application web full-stack pour la gestion de stock et ventes d'un magasin de je
 
 <div align="center">
 
+*(Wila les cartes matban chi, GitHub kaykhod chi chwiya bach ycharji, refréchi la page)*
 
 </div>
 
