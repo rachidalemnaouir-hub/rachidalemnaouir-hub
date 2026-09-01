@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef2f2,100:fecaca&height=180&text=Rachida%20Lemnaouir&fontSize=38&fontColor=7f1d1d&fontAlignY=38&desc=Data%20Engineer%20-%20Building%20Pipelines%2C%20Dashboards%20and%20Intelligent%20Systems&descSize=16&descAlignY=62&descColor=991b1b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef2f2,100:fecaca&height=180&text=Rachida%20Lemnaouir&fontSize=38&fontColor=7f1d1d&fontAlignY=38&desc=Full%20Stack%20Developer%20-%20Data%20Engineer%20-%20BI%20Specialist&descSize=16&descAlignY=62&descColor=991b1b" width="100%"/>
 
 ### Turning raw data into intelligent decisions
 
@@ -8,26 +8,29 @@
 
 ---
 
-### À propos
+### About Me
 
-Étudiante en Data Engineering à l'École Supérieure de Technologie de Fès (USMBA), diplôme 2026.
-Passionnée par tout ce qui touche à la donnée : pipelines ETL, bases de données, dashboards BI
-et modèles de Machine Learning. Mon stage de fin d'études au CARE/HAIM Research Center, en
-collaboration avec le service de Radiologie du CHU Hassan II de Fès, m'a menée à construire
-**RadStats**, une plateforme d'analyse médicale full-stack qui traite des milliers de rapports
-radiologiques. J'ai aussi travaillé sur un projet d'optimisation de supply chain à l'échelle
-nationale avec des algorithmes prédictifs et une architecture Medallion.
+I build end-to-end digital products — from full-stack web applications to data pipelines,
+BI dashboards and machine learning models that turn raw numbers into real decisions.
+I love connecting the dots between engineering and data: designing clean architectures,
+automating workflows, and shaping messy datasets into something clear and actionable.
 
-- 🔭 En ce moment : je monte des projets Data Engineering autour de Kafka, Spark et des architectures cloud
-- 🎓 Data Warehouse · ETL/ELT · Machine Learning · Business Intelligence
-- 🌱 En apprentissage continu : Big Data & systèmes distribués
-- 📍 Fès, Maroc
+I recently built **RadStats**, a full-stack medical analytics platform processing thousands
+of clinical reports, and worked on a national-scale **supply chain optimization** project
+combining predictive algorithms with a Medallion data architecture. I also design and ship
+**AI-powered assistants** and automation systems that connect real-time data with intelligent
+decision-making.
+
+- 🔭 Currently building: Data Engineering projects around Kafka, Spark and cloud architectures
+- 🎓 Core focus: Full-Stack Development · Data Engineering · Business Intelligence · Machine Learning
+- 🌱 Always exploring: Big Data & distributed systems
+- 💡 I enjoy turning complex problems into simple, elegant, data-driven solutions
 
 ---
 
-### Stack technique
+### Tech Stack
 
-**Langages**
+**Languages**
 
 <div align="center">
 
@@ -41,7 +44,7 @@ nationale avec des algorithmes prédictifs et une architecture Medallion.
 
 </div>
 
-**Bases de données**
+**Databases**
 
 <div align="center">
 
@@ -52,7 +55,7 @@ nationale avec des algorithmes prédictifs et une architecture Medallion.
 
 </div>
 
-**Frameworks & Outils**
+**Frameworks & Tools**
 
 <div align="center">
 
@@ -71,7 +74,7 @@ nationale avec des algorithmes prédictifs et une architecture Medallion.
 
 </div>
 
-**Data Analyst & Machine Learning**
+**Data Analysis & Machine Learning**
 
 <div align="center">
 
@@ -86,51 +89,37 @@ nationale avec des algorithmes prédictifs et une architecture Medallion.
 
 ---
 
-### Projets phares
+### Featured Projects
 
-**[RadStats — Plateforme d'analyse médicale](https://github.com/rachidalemnaouir-hub/radiologie-dashboard)**
-Pipeline ETL automatisé pour des rapports radiologiques (.docx), backend FastAPI avec
-auth JWT, frontend React + Vite, déployé avec Docker Compose sur PostgreSQL.
-107 fichiers importés de bout en bout.
+**[RadStats — Medical Analytics Platform](https://github.com/rachidalemnaouir-hub/radiologie-dashboard)**
+Full-stack platform automating the analysis of thousands of clinical reports. Automated
+ETL pipeline for radiology documents, FastAPI backend with JWT auth, React + Vite frontend,
+deployed with Docker Compose on PostgreSQL.
 
-**Supply Chain — Optimisation prédictive**
-Architecture Medallion (Bronze/Silver/Gold) sur SQL Server. 4 modèles ML : prédiction
-des coûts de transport (R²=0.93), détection des retards (91.3%), segmentation
-ABC/K-Means, optimisation de tournée TSP. 520K+ lignes traitées.
-[Démo](https://youtu.be/3te6EeITisk)
+**Supply Chain — Predictive Optimization**
+Medallion architecture (Bronze/Silver/Gold) on SQL Server. 4 ML models: transport cost
+prediction (R²=0.93), delay detection (91.3% accuracy), ABC/K-Means segmentation, and
+TSP route optimization. 520K+ rows processed at national scale.
+[Demo](https://youtu.be/3te6EeITisk)
 
-**[MindTask AI — Assistant de tâches intelligent](https://github.com/rachidalemnaouir-hub)**
-Architecture multi-agents (MCP) branchée sur un bot Telegram. Un agent gère les tâches
-en langage naturel, un second détecte le sentiment du message. Rapports hebdomadaires
-automatiques. [Démo](https://youtu.be/-hoo9SESaEI?si=JlPnPNxWJ4gxuQsZ)
+**[MindTask AI — Intelligent Task Assistant](https://github.com/rachidalemnaouir-hub)**
+Multi-agent architecture (MCP) connected to a Telegram bot. One agent manages tasks in
+natural language, a second detects message sentiment, with automated weekly reports.
+[Demo](https://youtu.be/-hoo9SESaEI?si=JlPnPNxWJ4gxuQsZ)
 
 **[Game Store Management](https://github.com/rachidalemnaouir-hub/game-store-management)**
-Application web full-stack pour la gestion de stock et ventes d'un magasin de jeux.
-
----
-
-### Statistiques GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rachidalemnaouir-hub&show_icons=true&hide_title=false&hide_border=true&bg_color=fef2f2&title_color=7f1d1d&icon_color=991b1b&text_color=44403c&ring_color=7f1d1d" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidalemnaouir-hub&layout=compact&hide_border=true&bg_color=fef2f2&title_color=7f1d1d&text_color=44403c&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-
-</div>
+Full-stack web application for inventory and sales management of a game store.
 
 ---
 
 <div align="center">
 
-### Contact
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7f1d1d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachida-lemnaouir-66232333b)
 [![Gmail](https://img.shields.io/badge/-Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidalemnaouir09@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-7f1d1d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212627140862)
+
 </div>
 
 <br/>
