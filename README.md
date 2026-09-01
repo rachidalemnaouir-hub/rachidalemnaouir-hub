@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rachidalemnaouir-hub/rachidalemnaouir-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Rachida%20Lemnaouir&fontSize=48&fontColor=ffffff&desc=Data%20Engineering%20Graduate%20-%20EST%20F%C3%A8s&descSize=18&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
+### Turning raw data into intelligent decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### À propos
+
+Diplômée en Data Engineering à l'École Supérieure de Technologie de Fès (USMBA), 2026.
+Mon stage de fin d'études au CARE/HAIM Research Center, en collaboration avec le service
+de Radiologie du CHU Hassan II de Fès, m'a menée à construire **RadStats**, une plateforme
+d'analyse médicale full-stack qui traite des milliers de rapports radiologiques.
+J'ai aussi travaillé sur un projet d'optimisation de supply chain à l'échelle nationale
+avec des algorithmes prédictifs et une architecture Medallion.
+
+- 🔭 En ce moment : je monte des projets Data Engineering autour de Kafka et Spark
+- 🎓 Data Warehouse, ETL/ELT, Machine Learning, Business Intelligence
+- 📍 Fès, Maroc
+
+---
+
+### Stack technique
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=14b8a6" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/PowerBI-0f172a?style=for-the-badge&logo=powerbi&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=14b8a6" />
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=14b8a6" />
+
+</div>
+
+---
+
+### Projets phares
+
+**[RadStats — Plateforme d'analyse médicale](https://github.com/rachidalemnaouir-hub/radiologie-dashboard)**
+Pipeline ETL automatisé pour des rapports radiologiques (.docx), backend FastAPI avec
+auth JWT, frontend React + Vite, déployé avec Docker Compose sur PostgreSQL.
+107 fichiers importés de bout en bout.
+
+**Supply Chain — Optimisation prédictive**
+Architecture Medallion (Bronze/Silver/Gold) sur SQL Server. 4 modèles ML : prédiction
+des coûts de transport (R²=0.93), détection des retards (91.3%), segmentation
+ABC/K-Means, optimisation de tournée TSP. 520K+ lignes traitées.
+[Démo](https://youtu.be/3te6EeITisk)
+
+**[MindTask AI — Assistant de tâches intelligent](https://github.com/rachidalemnaouir-hub)**
+Architecture multi-agents (MCP) branchée sur un bot Telegram. Un agent gère les tâches
+en langage naturel, un second détecte le sentiment du message. Rapports hebdomadaires
+automatiques. [Démo](https://youtu.be/-hoo9SESaEI?si=JlPnPNxWJ4gxuQsZ)
+
+**[Game Store Management](https://github.com/rachidalemnaouir-hub/game-store-management)**
+Application web full-stack pour la gestion de stock et ventes d'un magasin de jeux.
+
+---
+
+### Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rachidalemnaouir-hub&show_icons=true&hide_title=false&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=14b8a6&text_color=e2e8f0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidalemnaouir-hub&layout=compact&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=14b8a6)](https://www.linkedin.com/in/rachida-lemnaouir-66232333b)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=14b8a6)](mailto:rachidalemnaouir09@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=14b8a6)](https://wa.me/212627140862)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%"/>
