@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef2f2,100:fecaca&height=180&text=Rachida%20Lemnaouir&fontSize=38&fontColor=7f1d1d&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Pipelines%2C%20Dashboards%20%26%20Intelligent%20Systems&descSize=16&descAlignY=62&descColor=991b1b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef2f2,100:fecaca&height=180&text=Rachida%20Lemnaouir&fontSize=38&fontColor=7f1d1d&fontAlignY=38&desc=Data%20Engineer%20-%20Building%20Pipelines%2C%20Dashboards%20and%20Intelligent%20Systems&descSize=16&descAlignY=62&descColor=991b1b" width="100%"/>
 
 ### Turning raw data into intelligent decisions
 
