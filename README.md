@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Rachida%20Lemnaouir&fontSize=48&fontColor=ffffff&desc=Data%20Engineering%20Graduate%20-%20EST%20F%C3%A8s&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=180&text=Rachida%20Lemnaouir&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineering%20Graduate%20-%20EST%20F%C3%A8s&descSize=16&descAlignY=62&descColor=5eead4" width="100%"/>
 
 ### Turning raw data into intelligent decisions
 
@@ -75,7 +75,6 @@ Application web full-stack pour la gestion de stock et ventes d'un magasin de je
 
 <div align="center">
 
-*(Wila les cartes matban chi, GitHub kaykhod chi chwiya bach ycharji, refréchi la page)*
 
 </div>
 
@@ -93,4 +92,4 @@ Application web full-stack pour la gestion de stock et ventes d'un magasin de je
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e4a,100:0f172a&height=80&width=100%" width="100%"/>
