@@ -68,8 +68,14 @@ Application web full-stack pour la gestion de stock et ventes d'un magasin de je
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachidalemnaouir-hub&show_icons=true&hide_title=false&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=14b8a6&text_color=e2e8f0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidalemnaouir-hub&layout=compact&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0" width="48%"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rachidalemnaouir-hub&show_icons=true&hide_title=false&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=2dd4bf&text_color=e2e8f0&ring_color=14b8a6" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidalemnaouir-hub&layout=compact&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+*(Wila les cartes matban chi, GitHub kaykhod chi chwiya bach ycharji, refréchi la page)*
 
 </div>
 
@@ -77,10 +83,14 @@ Application web full-stack pour la gestion de stock et ventes d'un magasin de je
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=14b8a6)](https://www.linkedin.com/in/rachida-lemnaouir-66232333b)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=14b8a6)](mailto:rachidalemnaouir09@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=14b8a6)](https://wa.me/212627140862)
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachida-lemnaouir-66232333b)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidalemnaouir09@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212627140862)
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%"/>
