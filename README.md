@@ -118,8 +118,6 @@ Full-stack web application for inventory and sales management of a game store.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7f1d1d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachida-lemnaouir-66232333b)
 [![Gmail](https://img.shields.io/badge/-Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidalemnaouir09@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-7f1d1d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212627140862)
-
 </div>
 
 <br/>
